@@ -1,1 +1,1 @@
-<script>location.href='http://host3.dreamhack.games:11655/memo?memo=test'</script>
+<script>location.href='http://localhost:8000/memo?memo=test'</script>
